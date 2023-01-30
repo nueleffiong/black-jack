@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  #game {
+    margin: 0 auto;
+    width: 500px;
+    text-align: left;
+  }
+  
+  #player-hand, #dealer-hand {
+    display: inline-block;
+    width: 45%;
+    padding: 20px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-right: 20px;
+  }
+  
